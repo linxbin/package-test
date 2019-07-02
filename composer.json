@@ -10,8 +10,9 @@
     ],
     "require": {},
     "autoload": {
-    "psr-4": {
-        "Linxb\\PackageTest\\": "src/"
-    }
-}
+        "psr-4": {
+            "Linxb\\PackageTest\\": "src/"
+        }
+    },
+    "version": "1.0"
 }
