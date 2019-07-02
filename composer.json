@@ -1,0 +1,17 @@
+{
+    "name": "linxb/package-test",
+    "description": "This is a test.",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "linxb",
+            "email": "448923515@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "Linxb\\PackageTest\\": "src/"
+    }
+}
+}
