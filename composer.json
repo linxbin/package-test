@@ -14,5 +14,6 @@
             "Linxb\\PackageTest\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "version": "1.0"
 }
